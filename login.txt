@@ -1,0 +1,2 @@
+Email: usuario.tienda@mail.com
+Password: 123456
